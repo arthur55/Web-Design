@@ -1,5 +1,8 @@
-<style>
 body {background-color:lightgrey;}
 h1   {color:yellow}
 p    {color:green;margin: 30px;border:1px solid blue;padding: 20px}
-</style>
+a:hover{color:blue;font-family: courier}
+p.special{color:red;background-color: gray}
+table, th, td{border:1px solid red;text-align: center;background-color:purple}
+ol{padding: 20px;text-align: right}
+ul{border: 2px solid white;background-color: black;color:white}
