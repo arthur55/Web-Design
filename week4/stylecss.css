@@ -1,0 +1,7 @@
+body{margin-align:auto;color:yellow;background-color: blue;}
+h1{text-align: center;height:50px;}
+p{text-decoration: underline;font-weight: bold;width:20px;border: 1px solid #000000;word-wrap: break-word;}
+a.hover{color:gray;background-color: white}
+a.link{color:black;}
+a.visited{background-color: black;color:white;}
+	
