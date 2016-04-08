@@ -4,4 +4,4 @@ p{text-decoration: underline;font-weight: bold;width:20px;border: 1px solid #000
 a.hover{color:gray;background-color: white}
 a.link{color:black;}
 a.visited{background-color: black;color:white;}
-	
+.test{color:green;font-size: 25px;font-family: Courier;text-indent: 20px;width:200px;word-wrap:none;}
