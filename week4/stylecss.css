@@ -1,7 +1,10 @@
 body{margin-align:auto;color:yellow;background-color: blue;}
 h1{text-align: center;height:50px;}
 p{text-decoration: underline;font-weight: bold;width:20px;border: 1px solid #000000;word-wrap: break-word;}
-a.hover{color:gray;background-color: white}
-a.link{color:black;}
+a.hover{color:gray;background-color: gray}
+a.link{color:black;background-color: white}
 a.visited{background-color: black;color:white;}
 .test{color:green;font-size: 25px;font-family: Courier;text-indent: 20px;width:200px;word-wrap:none;}
+#test2{background-color: black;color:white;width:150px;}
+ul{color:lightblue;list-style-type: square;background-color: white}
+table, td, th{border: 20px solid white}
